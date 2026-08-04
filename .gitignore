@@ -18,3 +18,5 @@ data/
 
 # macOS
 .DS_Store
+
+reports/CNN_TransferLearning_Presentation.pdf
